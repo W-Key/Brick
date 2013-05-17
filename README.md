@@ -1,4 +1,6 @@
 Brick
 =====
 
-First Repo
+My First Repo
+
+Hello GitHub!
